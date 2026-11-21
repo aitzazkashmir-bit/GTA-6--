@@ -1,0 +1,6 @@
+{
+  "name": "GTA 6 AI Urdu Live Host",
+  "description": "AI-powered GTA 6 gameplay commentary studio generating natural Pakistani Urdu voice, synchronized Urdu subtitles, and YouTube Live broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
